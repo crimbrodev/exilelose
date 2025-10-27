@@ -1,0 +1,25 @@
+{
+  "name": "exile-lose-game",
+  "version": "1.0.0",
+  "description": "Интерактивная веб-игра - закидай Exile помидорами!",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 8000",
+    "deploy": "gh-pages -d ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/ExileLose.git"
+  },
+  "keywords": [
+    "game",
+    "javascript",
+    "html5",
+    "css3",
+    "interactive",
+    "web-game"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "homepage": "https://yourusername.github.io/ExileLose/"
+}
